@@ -1,0 +1,18 @@
+{
+  "name": "averyrpeterson-plugins",
+  "owner": {
+    "name": "Avery R. Peterson",
+    "url": "https://github.com/AveryRPeterson"
+  },
+  "metadata": {
+    "description": "Claude Code mods and plugins by Avery Peterson"
+  },
+  "plugins": [
+    {
+      "name": "escalation-ladder",
+      "source": "./plugins/escalation-ladder",
+      "description": "Tiered model escalation: start cheap, escalate to an oracle tier on low confidence, loops or failures, with circuit breakers and review passes.",
+      "version": "0.1.0"
+    }
+  ]
+}

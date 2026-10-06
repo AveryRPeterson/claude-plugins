@@ -1,0 +1,13 @@
+{
+  "name": "escalation-ladder",
+  "version": "0.1.0",
+  "description": "Tiered model escalation: start cheap, escalate to an oracle tier on low confidence, loops or failures, with circuit breakers and review passes.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Avery R. Peterson",
+    "url": "https://github.com/AveryRPeterson"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/AveryRPeterson/claude-plugins",
+  "homepage": "https://github.com/AveryRPeterson/claude-plugins/tree/main/plugins/escalation-ladder"
+}
