@@ -10,6 +10,8 @@ Claude Code plugin marketplace.
 ## Plugins
 - **escalation-ladder** — tiered model escalation (scout → worker → senior → oracle) with loop detection,
   circuit breakers and review passes. `/ladder pane` opens a live status pane.
+  Proof of concept; design notes, evaluation results and development live in
+  [AveryRPeterson/escalation-ladder](https://github.com/AveryRPeterson/escalation-ladder).
 
 ## Development
 The dev working copy lives in `~/.claude/dev-mods/*/escalation-ladder` until testing moves here.
